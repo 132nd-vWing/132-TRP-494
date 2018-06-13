@@ -1,0 +1,43 @@
+%\documentclass[11pt, twoside, a4paper]{report}
+\documentclass[11pt,a4paper]{article}
+% \usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{gensymb}
+
+\usepackage{multicol}
+\setlength{\columnsep}{1cm}
+\setlength{\columnseprule}{1pt}
+
+\usepackage{titlesec}
+\titleformat*{\subsection}{\normalsize}
+
+\usepackage{fontspec}
+\setmainfont{Lato}
+
+\usepackage{xunicode}
+\usepackage{xltxtra}
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+
+\graphicspath{{./figures/}}
+\setcounter{tocdepth}{1}
+
+\usepackage[headings]{fullpage}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{Page \thepage}
+\fancyhead[CE,CO]{\leftmark}
+\fancyhead[RE,LO]{132-494-F18C-500 \input{./revision.tex}}
+
+
+\author{132nd vWing}
+\title{494th VFS - Training Instruction Manual}
+\begin{document}
+  
+  \input{./Titlepage}
+      
+\end{document}

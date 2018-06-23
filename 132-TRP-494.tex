@@ -1,6 +1,4 @@
-%\documentclass[11pt, twoside, a4paper]{report}
-\documentclass[11pt,a4paper]{article}
-% \usepackage[utf8]{inputenc}
+\documentclass[11pt,a4paper]{report}
 \usepackage{graphicx}
 \usepackage{gensymb}
 
@@ -31,13 +29,35 @@
 \fancyhf{}
 \fancyhead[LE,RO]{Page \thepage}
 \fancyhead[CE,CO]{\leftmark}
-\fancyhead[RE,LO]{132-494-F18C-500 \input{./revision.tex}}
+\fancyhead[RE,LO]{TRP-494 \input{./revision.tex}}
 
 
 \author{132nd vWing}
 \title{494th VFS - Training Instruction Manual}
 \begin{document}
   
-  \input{./Titlepage}
-      
+  \input{./titlepage}
+
+  \tableofcontents
+    \newpage
+    
+  \part{Initial Qualification}
+    \chapter{BAS-01: Basic Familiarization \& Setup}
+      \section{Radio Communications}
+        UR Radio
+
+      \section{Liveries and Numbers}
+        What livery, bort number philosophy
+
+    
+    \chapter{NAV-01: Waypoint NAV}
+    \chapter{NAV-02: TACAN NAV}
+    \chapter{BAS-02: Precision Flight}
+    \chapter{COM-01: Basic Flight Communications}
+
+  \part{Mission Qualification}
+
+  \part{Continuation Training}
+
+  
 \end{document}

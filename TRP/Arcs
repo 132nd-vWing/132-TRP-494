@@ -1,22 +1,48 @@
 ## IQT ##
-PRE-01 - Welcome to the 388th
+PRE-01 - Welcome to the 494th
 BAS-01 - Basic Game Configuration
 BAS-02 - Basic Aircraft Procedures
 BAS-03 - Basic Flight
-BAS-04 - Air-to-Air Refuelling
-AVI-01 - Systems Configuration & Management
 NAV-01 - Basic Navigation
-BAS-05 - Precision Flight 
-COM-01 - In-Flight Communicatiosn (The 132nd Way of Flying)  (IP)
+AVI-01 - Avionics Configuration
+BAS-04 - Air-to-Air Refuelling
+BAS-05 - Precision Flight (IP)
+COM-01 - In-Flight Communications (The 132nd Way of Flying)  (IP)
 
+Basic Aircraft Procedures
+	Start-up
+	Lighting
+	Taxi
+	Essential systems
+Basic flight
+	Take-off
+	General handling
+	Touch-and-go
+	Circuit
+	Landing
+Navigation
+	VFR navigation
+	TACAN
+Avionics Configuration
+	INS alignment
+	Set-up HSI and configure steerpoints
+	Set Bullseye and reference it
+	Set and fly a short sequence
+Air-to-Air Refuelling
+Precision Flight (IP)
+The 132nd Way of Flying (IP)
 
 
 ## MQT ##
-TAC-01 - Tactical Formations & Turns  (IP)
+BAS-?? - Carrier Operations: Case 1 Operations (IP Signoff)
+AVI-?? - The SA Page
+TAC-01 - Tactical Formations & Turns (IP)
+TAC-02 - Defensive Systems and Manouevres
+Ground attack concepts (replacing TAC-21)
 NAV-02 - IFR Navigation
 COM-02 - Combat Communications  ( NECK: WHAT IS INTENDED WITH THIS LESSON? )
 NAV-03 - Night Navigation (NECK: WHAT IS INTENDED WITH THIS, RELATED TO TAC-03 NIGHT OPERATIONS?)
-TAC-02 - Defensive Systems and Manouevres
+
 TAC-03 - Night Operations
 AVI-02 - Radar
 WPN-01 - Guns and Rockets
@@ -28,6 +54,37 @@ ACT-02 - BVR & Mutual Support  (ACT 2)  (IP)
 SAT-01 - High and Medium altitude deliveries  (SAT 1)
 SAT-02 - Low altitude deliveries (SAT 2)
 TAC-04 - MQT Checkout  (IP)
+
+
+
+
+
+Guns, Rockets & Unguided Bombs
+JDAM
+JSOW
+HARM
+The TGP
+Laser guided bombs
+
+Opposed A2G Strikes (SAT1 - SQ with MQ+)
+
+A2A Radar
+	RWS
+	TWS
+	SIL/STBY
+
+AIM-120
+BVR and Mutual Support Introduction
+
+AIM-9
+BFM
+ACM
+
+
+AWACS A-A
+MQT checkout (IP)
+
+
 
 
 
